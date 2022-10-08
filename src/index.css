@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-app-region: none;
+}
+
+body {
+  font-family: monospace, 'Roboto', 'Oxygen', sans-serif;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(167, 167, 212);
+  font-size: 2rem;
+
+}
+
+#root{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
